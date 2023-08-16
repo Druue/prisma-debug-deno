@@ -1,0 +1,6 @@
+# local_debug
+
+Setup for local debugging of prisma client/engines in deno
+
+Makefile contains commands to spin up dbs in docker.
+.env file contains env vars to link custom binaries and also the db credentials.
